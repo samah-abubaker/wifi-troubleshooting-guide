@@ -147,3 +147,57 @@ Your device connects to the Wi-Fi network but repeatedly loses the connection.
 
 **If the problem persists:**
 If multiple devices repeatedly disconnect from the same Wi-Fi network, the problem may be related to the router, access point, or network service. If only one device is affected, contact technical support or check the device manufacturer's support resources.
+
+## 4. Quick Troubleshooting Checklist
+
+Before moving on to more advanced troubleshooting, complete the following step-by-step checklist. These quick actions resolve the majority of common Wi-Fi issues.
+
+* **Step 1: Toggle Wi-Fi or Airplane Mode** *(Approx. 30 seconds)*  
+  Turn off Wi-Fi (or turn on Airplane Mode) on your device, wait 10 seconds, and turn it back on. Disable any active VPNs.  
+  * **Expected Result:** The device refreshes its network adapter and reconnects successfully.
+
+* **Step 2: Restart Your Device** *(Approx. 1–2 minutes)*  
+  Reboot your smartphone, tablet, or computer to clear temporary software glitches affecting network connectivity.  
+  * **Expected Result:** Operating system network processes are cleared and internet access is restored.
+
+* **Step 3: Power Cycle Your Router and Modem** *(Approx. 3–5 minutes)*  
+  Unplug the power cables from both the router and modem. Wait at least 30 seconds before plugging them back in, then wait for the indicator lights to stabilize.  
+  * **Expected Result:** The network equipment re-establishes a fresh connection with your Internet Service Provider (ISP).  
+  > **Note:** This will temporarily disconnect all connected users and devices on the network.
+
+* **Step 4: Check Physical Distance and Frequency Band** *(Approx. 1 minute)*  
+  Move closer to the router and clear obstacles like thick walls or metal appliances. If your router is dual-band, try switching between the **5 GHz** band (faster, shorter range) and the **2.4 GHz** band (slower, longer range).  
+  * **Expected Result:** Signal strength increases and latency drops.
+
+* **Step 5: "Forget" and Rejoin the Wi-Fi Network** *(Approx. 2 minutes)*  
+  Go to your device's Wi-Fi settings, select your network, tap **Forget**, and then reconnect by re-entering the password.  
+  * **Expected Result:** The device clears corrupted profile data and establishes a fresh configuration.  
+  > **Note:** Ensure you have the correct Wi-Fi password on hand before forgetting the network.
+
+* **Step 6: Inspect Hardware Cables** *(Approx. 1 minute)*  
+  Ensure all power, Ethernet, coaxial, or fiber-optic cables are tightly secured to the devices and show no visible physical damage.  
+  * **Expected Result:** Loose connections or damaged lines are identified and fixed.
+
+* **Step 7: Cross-Test with Another Device** *(Approx. 2 minutes)*  
+  Attempt to connect a second device to the same Wi-Fi network.  
+  * **Expected Result:** If the second device connects properly, the issue is isolated to the original device. If it also fails, the issue lies with your local network hardware or ISP.
+
+
+## 5. When to Contact Technical Support
+
+If you have completed all the steps above and still experience connectivity failure, escalate the issue to your Internet Service Provider (ISP) or local IT administrator.
+
+### When to Call Immediately:
+* **Confirmed Outage:** Your ISP indicates an active service outage via their mobile app, website, or automated phone system.
+* **Router Warning Lights:** The **Internet**, **WAN**, or **LOS** (Loss of Signal) status light is solid red, blinking red, or completely off.
+* **Complete Network Failure:** All local devices fail to connect to Wi-Fi or receive internet access after a full power cycle.
+* **Physical Hardware Damage:** The router or modem feels excessively hot, smells burnt, or shows physical destruction.
+* **Chronic Dropouts:** Connections drop repeatedly throughout the day despite optimizing channels and router placement.
+
+### Information to Prepare Before Contacting Support
+Having the following details ready will help the technician resolve your issue faster:
+1. **Account Details:** Your account number, customer ID, or registered phone number.
+2. **Hardware Info:** The brand, model number, and MAC address of your router/modem.
+3. **Status Indicators:** The exact state and color of the lights on your network devices.
+4. **Error Logs:** Exact error codes or pop-up messages displayed on your devices.
+5. **Timeline & Scope:** When the issue started, whether it affects one or all devices, and the troubleshooting steps you have already performed.
